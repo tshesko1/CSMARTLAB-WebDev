@@ -1,0 +1,39 @@
+Software  Front-End + Back-End
+
+Site web :
+Fornt End: HTML + CSS + JavaScript
+Back End: Many Stacks
+	* MySQL + PHP
+	* MongoDB + NodeJS
+
+HTML: HyperText Markup Language : Langage de Balises
+	Presentation des elements qui seront presentes sur le site web
+	<label>Candide</label>
+
+CSS: Cascading Style Sheet
+	STYLE: Positionnement, Couleur, Embellissement
+
+JavaScript: Client Side Scripting language
+	Creer des Animations
+
+MySQL: RDBMS : Relational Database Management System
+
+	1 Candide Karnataka DRCongo
+	2 Noella CMR	IvoryCost
+
+PHP: Server Side Scripting Language
+	Assurer la liaison entre front-end et back-end
+	Operation/interaction sur la base de donnee
+
+Server: Receives requests from clients then returns the requested resources
+	www.google.com
+XAMPP:
+	X : Any platform
+	A : Apache
+		Creer environnement Server
+		Afin de tester ton site en local
+	M : MySQL
+	P : PHP
+	P : Perl
+
+Text Editor: Sublime Text
